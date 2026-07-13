@@ -34,12 +34,18 @@ TECH STACK
 PROJECT STRUCTURE
 
 Customer-Churn-Prediction/
-│── notebook.ipynb          # Complete ML workflow
-│── app.py                  # Streamlit application
-│── model.pkl               # Trained model
-│── scaler.pkl              # StandardScaler object
+│── notebook.ipynb                                           # Complete ML workflow
+
+│── app.py                                                   # Streamlit application
+
+│── model.pkl                                                # Trained model
+
+│── scaler.pkl                                               # StandardScaler object
+
 │── customer_churn_data.csv # Dataset
+
 │── requirements.txt
+
 │── README.md
 
 MACHINE LEARNING WORKFLOW
