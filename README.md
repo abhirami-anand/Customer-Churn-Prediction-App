@@ -34,6 +34,7 @@ TECH STACK
 PROJECT STRUCTURE
 
 Customer-Churn-Prediction/
+
 │── notebook.ipynb                                           # Complete ML workflow
 
 │── app.py                                                   # Streamlit application
